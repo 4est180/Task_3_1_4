@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Task_3_1_4" />
         <module name="spring-boot_security-demo" />
+        <module name="SpringHTMLJS" />
         <module name="PP_3_1_4_Rest-master" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="PP_3_1_4_Rest-master" options="-parameters" />
+      <module name="SpringHTMLJS" options="-parameters" />
       <module name="Task_3_1_4" options="-parameters" />
       <module name="spring-boot_security-demo" options="-parameters" />
     </option>

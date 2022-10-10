@@ -1,4 +1,4 @@
-package ru.kata.Task_3_1_4.configs;
+package my.task.SpringHTMLJS.configs;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.authority.AuthorityUtils;

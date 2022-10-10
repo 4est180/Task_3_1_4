@@ -1,11 +1,11 @@
-package ru.kata.Task_3_1_4.rest;
+package my.task.SpringHTMLJS.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ru.kata.Task_3_1_4.model.User;
-import ru.kata.Task_3_1_4.service.UserService;
+import my.task.SpringHTMLJS.model.User;
+import my.task.SpringHTMLJS.service.UserService;
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
-package ru.kata.Task_3_1_4.service;
+package my.task.SpringHTMLJS.service;
 
+import my.task.SpringHTMLJS.model.Role;
+import my.task.SpringHTMLJS.repository.RoleRepository;
 import org.springframework.stereotype.Service;
-import ru.kata.Task_3_1_4.model.Role;
-import ru.kata.Task_3_1_4.repository.RoleRepository;
 
 import java.util.List;
 

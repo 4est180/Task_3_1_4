@@ -1,13 +1,13 @@
-package ru.kata.Task_3_1_4;
+package my.task.SpringHTMLJS;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Task_3_1_4 {
+public class SpringHTMLJS {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Task_3_1_4.class, args);
+		SpringApplication.run(SpringHTMLJS.class, args);
 	}
 
 }

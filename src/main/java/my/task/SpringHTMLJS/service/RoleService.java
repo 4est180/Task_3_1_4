@@ -1,6 +1,6 @@
-package ru.kata.Task_3_1_4.service;
+package my.task.SpringHTMLJS.service;
 
-import ru.kata.Task_3_1_4.model.Role;
+import my.task.SpringHTMLJS.model.Role;
 
 import java.util.List;
 

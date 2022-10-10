@@ -1,4 +1,4 @@
-package ru.kata.Task_3_1_4.controller;
+package my.task.SpringHTMLJS.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

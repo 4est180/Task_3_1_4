@@ -1,10 +1,10 @@
-package ru.kata.Task_3_1_4.repository;
+package my.task.SpringHTMLJS.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
-import ru.kata.Task_3_1_4.model.User;
+import my.task.SpringHTMLJS.model.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {

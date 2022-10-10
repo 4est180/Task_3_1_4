@@ -8,10 +8,10 @@
 		<version>2.6.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ru.kata</groupId>
-	<artifactId>Task_3_1_4</artifactId>
+	<groupId>my.task</groupId>
+	<artifactId>SpringHTMLJS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Task_3_1_4</name>
+	<name>SpringHTMLJS</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

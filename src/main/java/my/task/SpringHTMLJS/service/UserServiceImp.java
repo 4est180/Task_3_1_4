@@ -1,5 +1,9 @@
-package ru.kata.Task_3_1_4.service;
+package my.task.SpringHTMLJS.service;
 
+import my.task.SpringHTMLJS.model.Role;
+import my.task.SpringHTMLJS.model.User;
+import my.task.SpringHTMLJS.repository.RoleRepository;
+import my.task.SpringHTMLJS.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import org.springframework.context.annotation.Lazy;
@@ -9,10 +13,6 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.kata.Task_3_1_4.model.Role;
-import ru.kata.Task_3_1_4.model.User;
-import ru.kata.Task_3_1_4.repository.RoleRepository;
-import ru.kata.Task_3_1_4.repository.UserRepository;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package ru.kata.Task_3_1_4.model;
+package my.task.SpringHTMLJS.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,10 +1,10 @@
-package ru.kata.Task_3_1_4.demo;
+package my.task.SpringHTMLJS.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Task_3_1_4_ApplicationTests {
+class SpringHTMLJSApplicationTests {
 
 	@Test
 	void contextLoads() {

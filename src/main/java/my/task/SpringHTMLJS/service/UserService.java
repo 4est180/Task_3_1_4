@@ -1,8 +1,8 @@
-package ru.kata.Task_3_1_4.service;
+package my.task.SpringHTMLJS.service;
 
+import my.task.SpringHTMLJS.model.Role;
 import org.springframework.security.core.userdetails.UserDetails;
-import ru.kata.Task_3_1_4.model.User;
-import ru.kata.Task_3_1_4.model.Role;
+import my.task.SpringHTMLJS.model.User;
 
 import java.util.List;
 
