@@ -1,13 +1,13 @@
-package my.task.SpringHTMLJS;
+package my.task.crudappjs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringHTMLJS {
+public class CRUDAppJS {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringHTMLJS.class, args);
+		SpringApplication.run(CRUDAppJS.class, args);
 	}
 
 }

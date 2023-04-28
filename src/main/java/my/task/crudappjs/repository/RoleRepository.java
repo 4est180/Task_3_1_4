@@ -1,6 +1,6 @@
-package my.task.SpringHTMLJS.repository;
+package my.task.crudappjs.repository;
 
-import my.task.SpringHTMLJS.model.Role;
+import my.task.crudappjs.model.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

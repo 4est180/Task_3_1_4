@@ -1,8 +1,8 @@
-package my.task.SpringHTMLJS.service;
+package my.task.crudappjs.service;
 
-import my.task.SpringHTMLJS.model.Role;
+import my.task.crudappjs.model.Role;
 import org.springframework.security.core.userdetails.UserDetails;
-import my.task.SpringHTMLJS.model.User;
+import my.task.crudappjs.model.User;
 
 import java.util.List;
 

@@ -1,11 +1,11 @@
-package my.task.SpringHTMLJS.rest;
+package my.task.crudappjs.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import my.task.SpringHTMLJS.model.User;
-import my.task.SpringHTMLJS.service.UserService;
+import my.task.crudappjs.model.User;
+import my.task.crudappjs.service.UserService;
 
 import java.security.Principal;
 

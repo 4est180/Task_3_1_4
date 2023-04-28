@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>my.task</groupId>
-	<artifactId>SpringHTMLJS</artifactId>
+	<artifactId>crudappjs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringHTMLJS</name>
+	<name>crudappjs</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

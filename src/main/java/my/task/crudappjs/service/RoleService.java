@@ -1,6 +1,6 @@
-package my.task.SpringHTMLJS.service;
+package my.task.crudappjs.service;
 
-import my.task.SpringHTMLJS.model.Role;
+import my.task.crudappjs.model.Role;
 
 import java.util.List;
 

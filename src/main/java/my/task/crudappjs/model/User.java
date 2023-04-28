@@ -1,4 +1,4 @@
-package my.task.SpringHTMLJS.model;
+package my.task.crudappjs.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

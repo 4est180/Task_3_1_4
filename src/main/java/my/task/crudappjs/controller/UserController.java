@@ -1,4 +1,4 @@
-package my.task.SpringHTMLJS.controller;
+package my.task.crudappjs.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

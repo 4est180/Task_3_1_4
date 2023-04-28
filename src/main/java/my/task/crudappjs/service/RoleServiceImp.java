@@ -1,7 +1,7 @@
-package my.task.SpringHTMLJS.service;
+package my.task.crudappjs.service;
 
-import my.task.SpringHTMLJS.model.Role;
-import my.task.SpringHTMLJS.repository.RoleRepository;
+import my.task.crudappjs.model.Role;
+import my.task.crudappjs.repository.RoleRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

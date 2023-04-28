@@ -1,4 +1,4 @@
-package my.task.SpringHTMLJS.configs;
+package my.task.crudappjs.configs;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;

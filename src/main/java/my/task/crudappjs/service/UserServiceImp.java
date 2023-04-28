@@ -1,9 +1,9 @@
-package my.task.SpringHTMLJS.service;
+package my.task.crudappjs.service;
 
-import my.task.SpringHTMLJS.model.Role;
-import my.task.SpringHTMLJS.model.User;
-import my.task.SpringHTMLJS.repository.RoleRepository;
-import my.task.SpringHTMLJS.repository.UserRepository;
+import my.task.crudappjs.model.Role;
+import my.task.crudappjs.model.User;
+import my.task.crudappjs.repository.RoleRepository;
+import my.task.crudappjs.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import org.springframework.context.annotation.Lazy;

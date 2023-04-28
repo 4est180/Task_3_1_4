@@ -1,10 +1,10 @@
-package my.task.SpringHTMLJS.controller;
+package my.task.crudappjs.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import my.task.SpringHTMLJS.service.RoleService;
+import my.task.crudappjs.service.RoleService;
 
 @Controller
 public class AdminController {

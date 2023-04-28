@@ -1,4 +1,4 @@
-package my.task.SpringHTMLJS.configs;
+package my.task.crudappjs.configs;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.authority.AuthorityUtils;
