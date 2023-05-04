@@ -1,4 +1,4 @@
 ### CRUDAppJS
-Simple SpringBoot CRUD application using Maven, Spring MVC, Spring Security, Hibernate, MySQL, HTML, Bootstrap, JavaScript
+Простое CRUD приложение использующее Maven, Spring MVC, Spring Security, Hibernate, MySQL, HTML, Bootstrap, JavaScript
 
-Enter your current username and password in the application.properties file
+Введите ваши текущие username и password в файле свойств `application.properties`
